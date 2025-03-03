@@ -1,0 +1,7 @@
+autogen-agentchat
+autogen-ext[azure, openai]
+dotenv
+azure-identity
+azure-ai-projects
+streamlit
+tiktoken

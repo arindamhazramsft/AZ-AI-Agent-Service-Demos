@@ -1,0 +1,14 @@
+cd mcp
+python -m venv venv
+pip install uv
+pip install "mcp[cli]" 
+
+or
+
+pip install -r ./requirements.txt
+
+# to test it using MCP Inspector
+mcp dev calculator-server.py
+
+# to run the mcp server
+python calculator-server.py

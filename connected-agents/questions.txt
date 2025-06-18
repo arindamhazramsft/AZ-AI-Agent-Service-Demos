@@ -1,0 +1,8 @@
+What courses are offered by Contoso University?
+
+
+Generate a quiz on the Sports Cricket
+
+
+Do you know what courses are offered by Contoso University and 
+from the list of courses, pick a subject and generate a quiz of five questions.
